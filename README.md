@@ -1,6 +1,6 @@
 先上图
 
-**下面是我的小程序效果图，主要是基于我的网站 [在线助手](https://www.it399.com) https://www.it399.com 改编，后面会开源此小程序，还原star**
+**下面是我的小程序效果图，主要是基于我的网站 [在线助手](https://www.it399.com) https://www.it399.com 改编，后面会开源此小程序，欢迎star**
 
 ![在线生成制作工具小程序](https://upload-images.jianshu.io/upload_images/2704327-4c0c2d4adfec2652.gif?imageMogr2/auto-orient/strip)
 
